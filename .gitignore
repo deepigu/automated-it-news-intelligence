@@ -8,3 +8,5 @@ venv/
 credentials.json
 news_output/
 .vscode/
+recipients.txt
+it_news_platform_backup.py

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Google resolves cloud outage affecting UK banks and websites",
+    "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+    "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "published": "2026-10-20T18:03:19+00:00",
+    "score": 6
+  },
+  {
+    "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
+    "summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin",
+    "url": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+    "source": "The Register",
+    "published": "2026-10-20T15:30:00+00:00",
+    "score": 6
+  },
+  {
+    "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
+    "summary": "SPONSORED FEATURE: Nutanix says running VMs and containers within the same operating environment shouldn’t be a brake on AI ambitions",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
+    "source": "The Register",
+    "published": "2026-10-20T15:00:00+00:00",
+    "score": 6
+  },
+  {
+    "title": "Google Cloud says a 'power event' caused today's outage",
+    "summary": "Fells London zone, taking banks, parcel firm and property sites with it – and recovery is 'tentatively' due by 1300 UTC",
+    "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+    "source": "The Register",
+    "published": "2026-10-20T12:49:56+00:00",
+    "score": 6
+  },
+  {
+    "title": "Microsoft admits that Always On VPN problems were not fixed in the October Security Update",
+    "summary": "Let they who are without sin throw a stone and miss the greenhouse entirely",
+    "url": "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063",
+    "source": "The Register",
+    "published": "2026-10-20T11:30:00+00:00",
+    "score": 6
+  }
+]

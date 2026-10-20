@@ -1,0 +1,135 @@
+
+/* Global styling */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #0b1220;
+    color: #e8eef8;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, #142c50, #0c1628);
+    padding: 55px 20px;
+    text-align: center;
+    border-bottom: 1px solid #253b5a;
+}
+
+header h1 {
+    font-size: 38px;
+    margin: 0;
+    color: #60a5fa;
+}
+
+header p {
+    color: #a8bdd5;
+    margin-top: 12px;
+}
+
+/* Main dashboard */
+main {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+section {
+    background: #152238;
+    border: 1px solid #2a3e5a;
+    border-radius: 14px;
+    padding: 28px;
+    margin-bottom: 25px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.18);
+}
+
+h2 {
+    color: #93c5fd;
+    margin-top: 0;
+    font-size: 24px;
+}
+
+/* News cards */
+#news-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 18px;
+}
+
+.news-card {
+    background: #1e304b;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #345072;
+    transition: transform 0.2s ease;
+}
+
+.news-card:hover {
+    transform: translateY(-4px);
+}
+
+.news-card h3 {
+    color: #ffffff;
+    margin-top: 0;
+}
+
+.news-card p {
+    color: #b9c9dd;
+}
+
+.news-card a {
+    color: #60a5fa;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.news-card a:hover {
+    text-decoration: underline;
+}
+
+/* Features */
+#features ul {
+    padding-left: 24px;
+}
+
+#features li {
+    margin-bottom: 12px;
+    color: #c9d8eb;
+}
+
+/* Footer */
+footer {
+    background: #101b2d;
+    padding: 30px 20px;
+    text-align: center;
+    border-top: 1px solid #253b5a;
+}
+
+footer a {
+    color: #60a5fa;
+    font-weight: 600;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+    header {
+        padding: 35px 15px;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+
+    main {
+        margin: 20px auto;
+        padding: 0 12px;
+    }
+
+    section {
+        padding: 20px;
+    }
+}
