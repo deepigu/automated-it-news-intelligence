@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.key
+credentials.json
+news_output/
+.vscode/
