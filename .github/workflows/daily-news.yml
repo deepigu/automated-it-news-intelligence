@@ -3,9 +3,16 @@ name: Daily IT News Intelligence
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '15 8 * * *'
+      timezone: 'America/Toronto'
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-it-news
+  cancel-in-progress: false
 
 jobs:
   daily-news:
@@ -23,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate news and send test email
+      - name: Generate news and send email
         env:
           NEWS_EMAIL_USER: ${{ secrets.NEWS_EMAIL_USER }}
           NEWS_EMAIL_PASSWORD: ${{ secrets.NEWS_EMAIL_PASSWORD }}
@@ -33,9 +40,12 @@ jobs:
       - name: Publish latest news to dashboard
         run: |
           cp "$(ls -t news_output/*.json | head -n 1)" website/latest-news.json
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add website/latest-news.json
+
           if ! git diff --cached --quiet; then
             git commit -m "Update daily IT news"
             git push
