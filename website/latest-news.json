@@ -1,42 +1,48 @@
-[
-  {
-    "title": "Google resolves cloud outage affecting UK banks and websites",
-    "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-    "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "published": "2026-10-20T18:03:19+00:00",
-    "score": 6
-  },
-  {
-    "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
-    "summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin",
-    "url": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
-    "source": "The Register",
-    "published": "2026-10-20T15:30:00+00:00",
-    "score": 6
-  },
-  {
-    "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
-    "summary": "SPONSORED FEATURE: Nutanix says running VMs and containers within the same operating environment shouldn’t be a brake on AI ambitions",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
-    "source": "The Register",
-    "published": "2026-10-20T15:00:00+00:00",
-    "score": 6
-  },
-  {
-    "title": "Google Cloud says a 'power event' caused today's outage",
-    "summary": "Fells London zone, taking banks, parcel firm and property sites with it – and recovery is 'tentatively' due by 1300 UTC",
-    "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
-    "source": "The Register",
-    "published": "2026-10-20T12:49:56+00:00",
-    "score": 6
-  },
-  {
-    "title": "Microsoft admits that Always On VPN problems were not fixed in the October Security Update",
-    "summary": "Let they who are without sin throw a stone and miss the greenhouse entirely",
-    "url": "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063",
-    "source": "The Register",
-    "published": "2026-10-20T11:30:00+00:00",
-    "score": 6
-  }
-]
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T21:23:21.492795-04:00",
+  "timezone": "America/Toronto",
+  "total_articles": 5,
+  "articles": [
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "source": "Ars Technica",
+      "published": "2026-10-21T18:51:42+00:00",
+      "score": 21.0
+    },
+    {
+      "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+      "summary": "Maintainers reckon a quarter of incoming pull requests are slop, rising to 31% on larger projects",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+      "source": "The Register",
+      "published": "2026-10-21T12:43:00+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-10-21T19:54:57+00:00",
+      "score": 15.0
+    },
+    {
+      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+      "summary": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+      "source": "The Register",
+      "published": "2026-10-21T15:00:00+00:00",
+      "score": 15.0
+    },
+    {
+      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 107 # Comments: 26",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+      "source": "Hacker News",
+      "published": "2026-10-21T21:12:59+00:00",
+      "score": 14.0
+    }
+  ]
+}
