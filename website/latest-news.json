@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T21:36:45.056448-04:00",
+  "generated_at": "2026-10-21T21:57:07.375397-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -38,7 +38,7 @@
     },
     {
       "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 107 # Comments: 26",
+      "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 108 # Comments: 26",
       "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
       "source": "Hacker News",
       "published": "2026-10-21T21:12:59+00:00",
