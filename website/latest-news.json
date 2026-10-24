@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:11:12.424143-04:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T11:59:42.991653-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "The HTML-in-Canvas API origin trial",
-      "summary": "Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial Comments URL: https://news.ycombinator.com/item?id=50200164 Points: 110 # Comments: 49",
-      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
-      "source": "Hacker News",
-      "published": "2026-10-22T19:54:04+00:00",
+      "title": "Michigan prof creates Python-like Jac language for AI agents",
+      "summary": "Stop burning $165K on AI rewrites; Jac is meant to \"gobble up\" your polyglot stack",
+      "url": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
+      "source": "The Register",
+      "published": "2026-10-23T15:46:19+00:00",
       "score": 18.0
     },
     {
@@ -21,27 +21,27 @@
       "score": 16.0
     },
     {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-10-23T12:24:17+00:00",
+      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+      "summary": "Sound designer lets Half Life-related codename slip at a conference.",
+      "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+      "source": "Ars Technica",
+      "published": "2026-10-23T16:35:00+00:00",
       "score": 15.0
     },
     {
-      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-10-23T12:00:25+00:00",
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "summary": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/ Comments URL: https://news.ycombinator.com/item?id=50221676 Points: 206 # Comments: 111",
+      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "source": "Hacker News",
+      "published": "2026-10-24T14:38:34+00:00",
       "score": 13.0
     },
     {
-      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-      "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
       "source": "Ars Technica",
-      "published": "2026-10-22T22:25:33+00:00",
+      "published": "2026-10-24T11:50:28+00:00",
       "score": 13.0
     }
   ]
