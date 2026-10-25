@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T11:59:42.991653-04:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:25:18.191055-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -18,7 +18,7 @@
       "url": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
       "source": "The Register",
       "published": "2026-10-22T11:28:00+00:00",
-      "score": 16.0
+      "score": 14.0
     },
     {
       "title": "Everybody panic: A Valve developer said \"HLX\" in public",
@@ -26,23 +26,23 @@
       "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
       "source": "Ars Technica",
       "published": "2026-10-23T16:35:00+00:00",
-      "score": 15.0
+      "score": 12.0
     },
     {
-      "title": "Google illegally cut down 250K trees in Finland for data center",
-      "summary": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/ Comments URL: https://news.ycombinator.com/item?id=50221676 Points: 206 # Comments: 111",
-      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-10-23T12:24:17+00:00",
+      "score": 12.0
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 589 # Comments: 577",
+      "url": "https://danluu.com/ambitious/",
       "source": "Hacker News",
-      "published": "2026-10-24T14:38:34+00:00",
-      "score": 13.0
-    },
-    {
-      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-      "source": "Ars Technica",
-      "published": "2026-10-24T11:50:28+00:00",
-      "score": 13.0
+      "published": "2026-10-24T21:47:31+00:00",
+      "score": 11.0
     }
   ]
 }
