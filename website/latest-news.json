@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T14:41:55.769676-04:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:02:13.766034-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -10,38 +10,38 @@
       "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
       "source": "The Register",
       "published": "2026-10-26T17:58:00+00:00",
-      "score": 24.0
+      "score": 21.0
     },
     {
-      "title": "Michigan prof creates Python-like Jac language for AI agents",
-      "summary": "Stop burning $165K on AI rewrites; Jac is meant to \"gobble up\" your polyglot stack",
-      "url": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
-      "source": "The Register",
-      "published": "2026-10-23T15:46:19+00:00",
-      "score": 16.0
+      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+      "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50261584 Points: 11 # Comments: 3",
+      "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+      "source": "Hacker News",
+      "published": "2026-10-27T16:25:12+00:00",
+      "score": 15.0
     },
     {
-      "title": "Open source keyboard lets you swap parts like magnetic Lego bricks",
-      "summary": "Every key is its own module, and its designer tells us the sky's the theoretical limit on the size of the frankenboard you can build",
-      "url": "https://www.theregister.com/offbeat/2026/10/26/open-source-keyboard-lets-you-swap-parts-like-magnetic-lego-bricks/5305470",
+      "title": "ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux",
+      "summary": "Classic Platinum or lickable Mavericks-era Aqua – it's your choice",
+      "url": "https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710",
       "source": "The Register",
-      "published": "2026-10-26T17:25:00+00:00",
+      "published": "2026-10-27T17:00:00+00:00",
       "score": 13.0
     },
     {
-      "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
-      "summary": "Charity confirms slew of security improvements as it waits for UK.gov's go-ahead",
-      "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
+      "title": "Year of Linux on the Beach confirmed",
+      "summary": "Don't forget to keep code up to date. Even with a cold beverage in hand",
+      "url": "https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385",
       "source": "The Register",
-      "published": "2026-10-26T12:38:00+00:00",
+      "published": "2026-10-27T09:30:00+00:00",
       "score": 13.0
     },
     {
-      "title": "Euro open source specialist proposes LLM gateway to ease token bills",
-      "summary": "Aiven hopes to do for LLMs what it does for databases",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
+      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
+      "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
+      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
       "source": "The Register",
-      "published": "2026-10-26T10:15:00+00:00",
+      "published": "2026-10-27T01:06:22+00:00",
       "score": 13.0
     }
   ]
