@@ -1,48 +1,48 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T14:02:13.766034-04:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:22:04.054152-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
-      "summary": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
-      "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+      "summary": "One critical, three high-severity EPICS bugs could disrupt research experiments",
+      "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
       "source": "The Register",
-      "published": "2026-10-26T17:58:00+00:00",
-      "score": 21.0
-    },
-    {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50261584 Points: 11 # Comments: 3",
-      "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "source": "Hacker News",
-      "published": "2026-10-27T16:25:12+00:00",
+      "published": "2026-10-27T19:11:02+00:00",
       "score": 15.0
     },
     {
-      "title": "ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux",
-      "summary": "Classic Platinum or lickable Mavericks-era Aqua – it's your choice",
-      "url": "https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710",
+      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+      "summary": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
       "source": "The Register",
-      "published": "2026-10-27T17:00:00+00:00",
+      "published": "2026-10-28T11:45:00+00:00",
       "score": 13.0
     },
     {
-      "title": "Year of Linux on the Beach confirmed",
-      "summary": "Don't forget to keep code up to date. Even with a cold beverage in hand",
-      "url": "https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385",
+      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
+      "summary": "Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
       "source": "The Register",
-      "published": "2026-10-27T09:30:00+00:00",
+      "published": "2026-10-27T20:20:27+00:00",
       "score": 13.0
     },
     {
-      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
-      "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
-      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
-      "source": "The Register",
-      "published": "2026-10-27T01:06:22+00:00",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "source": "Ars Technica",
+      "published": "2026-10-27T18:49:08+00:00",
       "score": 13.0
+    },
+    {
+      "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
+      "summary": "Focus more on what matters, please, like creating useful software and accomplishing company goals",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
+      "source": "The Register",
+      "published": "2026-10-28T16:49:14+00:00",
+      "score": 12.0
     }
   ]
 }
