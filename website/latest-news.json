@@ -1,48 +1,48 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:22:04.054152-04:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:29:50.715451-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
-      "summary": "One critical, three high-severity EPICS bugs could disrupt research experiments",
-      "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
-      "source": "The Register",
-      "published": "2026-10-27T19:11:02+00:00",
-      "score": 15.0
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this ",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "source": "Hacker News",
+      "published": "2026-10-29T15:56:32+00:00",
+      "score": 33.0
     },
     {
-      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
-      "summary": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
-      "url": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+      "title": "Google struggling to make AI Mode searches pay",
+      "summary": "That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
       "source": "The Register",
-      "published": "2026-10-28T11:45:00+00:00",
-      "score": 13.0
+      "published": "2026-10-29T01:12:24+00:00",
+      "score": 17.0
     },
     {
-      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
-      "summary": "Oracle plans to add those chips alongside new Nvidia hardware and OpenAI services as businesses await AI payoffs",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
+      "summary": "The AI medical assistant is still being tested. Now the space boffins want to give it hands",
+      "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
       "source": "The Register",
-      "published": "2026-10-27T20:20:27+00:00",
-      "score": 13.0
+      "published": "2026-10-28T20:44:22+00:00",
+      "score": 17.0
     },
     {
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-      "source": "Ars Technica",
-      "published": "2026-10-27T18:49:08+00:00",
-      "score": 13.0
+      "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
+      "summary": "Attackers probe another EBS bug, and ShinyHunters' PeopleSoft 0-day turns out to involve three vulns",
+      "url": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
+      "source": "The Register",
+      "published": "2026-10-28T19:56:56+00:00",
+      "score": 17.0
     },
     {
-      "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
-      "summary": "Focus more on what matters, please, like creating useful software and accomplishing company goals",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
-      "source": "The Register",
-      "published": "2026-10-28T16:49:14+00:00",
-      "score": 12.0
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-10-29T01:27:40+00:00",
+      "score": 14.0
     }
   ]
 }
