@@ -1,48 +1,48 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:29:50.715451-04:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:02:17.885196-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this ",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "source": "Hacker News",
-      "published": "2026-10-29T15:56:32+00:00",
-      "score": 33.0
+      "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
+      "summary": "Before long, we could be writing about a cloud company with a retail side hustle",
+      "url": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+      "source": "The Register",
+      "published": "2026-10-30T05:42:24+00:00",
+      "score": 23.0
     },
     {
-      "title": "Google struggling to make AI Mode searches pay",
-      "summary": "That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+      "summary": "Embedded browsers are at the heart of the problem",
+      "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
       "source": "The Register",
-      "published": "2026-10-29T01:12:24+00:00",
+      "published": "2026-10-29T23:12:26+00:00",
+      "score": 23.0
+    },
+    {
+      "title": "Trump declares robot imports a national security threat",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "source": "Ars Technica",
+      "published": "2026-10-29T19:07:53+00:00",
+      "score": 19.0
+    },
+    {
+      "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
+      "summary": "Binance freezes funny money after compromise of engineer’s laptop linked to $6.3 billion of unauthorized trades",
+      "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+      "source": "The Register",
+      "published": "2026-10-30T04:22:12+00:00",
       "score": 17.0
     },
     {
-      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
-      "summary": "The AI medical assistant is still being tested. Now the space boffins want to give it hands",
-      "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
-      "source": "The Register",
-      "published": "2026-10-28T20:44:22+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
-      "summary": "Attackers probe another EBS bug, and ShinyHunters' PeopleSoft 0-day turns out to involve three vulns",
-      "url": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
-      "source": "The Register",
-      "published": "2026-10-28T19:56:56+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "Microsoft profits soar days after announcing thousands of layoffs",
-      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-10-29T01:27:40+00:00",
-      "score": 14.0
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "source": "Ars Technica",
+      "published": "2026-10-30T17:38:19+00:00",
+      "score": 13.0
     }
   ]
 }
