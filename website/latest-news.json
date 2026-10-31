@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T14:02:17.885196-04:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T13:15:44.384918-04:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -10,7 +10,7 @@
       "url": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
       "source": "The Register",
       "published": "2026-10-30T05:42:24+00:00",
-      "score": 23.0
+      "score": 20.0
     },
     {
       "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
@@ -18,15 +18,15 @@
       "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
       "source": "The Register",
       "published": "2026-10-29T23:12:26+00:00",
-      "score": 23.0
+      "score": 20.0
     },
     {
-      "title": "Trump declares robot imports a national security threat",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "source": "Ars Technica",
-      "published": "2026-10-29T19:07:53+00:00",
-      "score": 19.0
+      "title": "Tell HN: Scribd Breached",
+      "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have ",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "source": "Hacker News",
+      "published": "2026-10-31T02:46:36+00:00",
+      "score": 17.0
     },
     {
       "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
@@ -34,14 +34,14 @@
       "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
       "source": "The Register",
       "published": "2026-10-30T04:22:12+00:00",
-      "score": 17.0
+      "score": 14.0
     },
     {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "Low costs and offline security mean magnetic tape still has a job.",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "source": "Ars Technica",
-      "published": "2026-10-30T17:38:19+00:00",
+      "title": "Google's AI satellite sends a very expensive haiku to Earth",
+      "summary": "Experimental orbital datacenter prototype puts its TPU to work producing poetry",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+      "source": "The Register",
+      "published": "2026-10-31T15:36:14+00:00",
       "score": 13.0
     }
   ]
