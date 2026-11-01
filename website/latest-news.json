@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T13:15:44.384918-04:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T13:26:14.740898-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -21,14 +21,6 @@
       "score": 20.0
     },
     {
-      "title": "Tell HN: Scribd Breached",
-      "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have ",
-      "url": "https://news.ycombinator.com/item?id=50312756",
-      "source": "Hacker News",
-      "published": "2026-10-31T02:46:36+00:00",
-      "score": 17.0
-    },
-    {
       "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
       "summary": "Binance freezes funny money after compromise of engineer’s laptop linked to $6.3 billion of unauthorized trades",
       "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
@@ -37,12 +29,20 @@
       "score": 14.0
     },
     {
-      "title": "Google's AI satellite sends a very expensive haiku to Earth",
-      "summary": "Experimental orbital datacenter prototype puts its TPU to work producing poetry",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-      "source": "The Register",
-      "published": "2026-10-31T15:36:14+00:00",
-      "score": 13.0
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "summary": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s. It's open source. AGPLv3. It's based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Inciden",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "source": "Hacker News",
+      "published": "2026-11-01T13:02:30+00:00",
+      "score": 11.0
+    },
+    {
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-01T01:37:26+00:00",
+      "score": 11.0
     }
   ]
 }
