@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T17:20:44.716944-05:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:07:40.792290-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "summary": "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 21 # Comments: 2",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 642 # Comments: 204",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "source": "Hacker News",
-      "published": "2026-11-02T17:47:40+00:00",
+      "published": "2026-11-03T17:22:37+00:00",
+      "score": 21.0
+    },
+    {
+      "title": "Gitbook Breached",
+      "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste. Update: GitBook security incident update Hey , The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance. *What happened* GitBook has been the target of a sophisticated, highly targeted attack using AI agents. At 19:00 CET, November 2, the attacker g",
+      "url": "https://news.ycombinator.com/item?id=50354336",
+      "source": "Hacker News",
+      "published": "2026-11-03T16:45:49+00:00",
       "score": 17.0
     },
     {
-      "title": "Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions",
-      "summary": "Yet machine-made patches ‘often get rewritten’",
-      "url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
-      "source": "The Register",
-      "published": "2026-11-01T23:11:41+00:00",
-      "score": 17.0
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "source": "Ars Technica",
+      "published": "2026-11-03T17:54:43+00:00",
+      "score": 13.0
     },
     {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 165 # Comments: 28",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "title": "Google will turn off search for schools that reject AI",
+      "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 373 # Comments: 287",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "source": "Hacker News",
-      "published": "2026-11-02T18:39:38+00:00",
+      "published": "2026-11-03T15:25:47+00:00",
       "score": 13.0
     },
     {
-      "title": "SUSE to cut one in ten employees because of... AI",
-      "summary": "'Modern tooling is already changing our daily workflows' says CEO at open source biz",
-      "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+      "title": "Broadcom denied names of cloud providers backing VMware merger challenge",
+      "summary": "EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval",
+      "url": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178",
       "source": "The Register",
-      "published": "2026-11-02T15:30:00+00:00",
-      "score": 13.0
-    },
-    {
-      "title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
-      "summary": "Wants more local AI, without Big Tech getting open access to everything",
-      "url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-      "source": "The Register",
-      "published": "2026-11-02T04:39:50+00:00",
+      "published": "2026-11-03T11:00:00+00:00",
       "score": 13.0
     }
   ]
