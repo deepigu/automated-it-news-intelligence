@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T15:07:40.792290-05:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:26:40.974081-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 642 # Comments: 204",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "source": "Hacker News",
-      "published": "2026-11-03T17:22:37+00:00",
+      "title": "Turn your home into a giant crane game with this open source robot",
+      "summary": "Who needs a humanoid to pick up after you when you can suspend an AI-powered claw from cables near your ceiling?",
+      "url": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
+      "source": "The Register",
+      "published": "2026-11-04T18:35:00+00:00",
       "score": 21.0
     },
     {
-      "title": "Gitbook Breached",
-      "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste. Update: GitBook security incident update Hey , The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance. *What happened* GitBook has been the target of a sophisticated, highly targeted attack using AI agents. At 19:00 CET, November 2, the attacker g",
-      "url": "https://news.ycombinator.com/item?id=50354336",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "summary": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video and our launch video (made entirely with Kino!) at https://kino.ai/launch-video Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny ed",
+      "url": "https://news.ycombinator.com/item?id=50368804",
       "source": "Hacker News",
-      "published": "2026-11-03T16:45:49+00:00",
-      "score": 17.0
+      "published": "2026-11-04T17:31:53+00:00",
+      "score": 20.0
     },
     {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "source": "Ars Technica",
-      "published": "2026-11-03T17:54:43+00:00",
+      "title": "A new Go API for JSON",
+      "summary": "Article URL: https://go.dev/blog/jsonv2 Comments URL: https://news.ycombinator.com/item?id=50369106 Points: 107 # Comments: 29",
+      "url": "https://go.dev/blog/jsonv2",
+      "source": "Hacker News",
+      "published": "2026-11-04T17:52:11+00:00",
       "score": 13.0
     },
     {
-      "title": "Google will turn off search for schools that reject AI",
-      "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 373 # Comments: 287",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "title": "Debian apt security update (man-in-the-middle)",
+      "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer= Comments URL: https://news.ycombinator.com/item?id=50366575 Points: 119 # Comments: 25",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
       "source": "Hacker News",
-      "published": "2026-11-03T15:25:47+00:00",
+      "published": "2026-11-04T15:04:14+00:00",
       "score": 13.0
     },
     {
-      "title": "Broadcom denied names of cloud providers backing VMware merger challenge",
-      "summary": "EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval",
-      "url": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178",
+      "title": "Windows pushed AI PCs, but now it's hit a wall of RAM prices",
+      "summary": "Customers sweating assets amid tight budgets, as Microsoft execs get creative with sales pitches",
+      "url": "https://www.theregister.com/personal-tech/2026/11/04/windows-pushed-ai-pcs-but-now-its-hit-a-wall-of-ram-prices/5307335",
       "source": "The Register",
-      "published": "2026-11-03T11:00:00+00:00",
-      "score": 13.0
+      "published": "2026-11-04T10:15:00+00:00",
+      "score": 11.0
     }
   ]
 }
