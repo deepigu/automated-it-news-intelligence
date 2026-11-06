@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T15:41:23.499949-05:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T14:57:54.675527-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "summary": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle. It's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable. Here’s a video walkthrough: https://www.youtube.com/wa",
-      "url": "https://github.com/rivet-dev/rivet",
-      "source": "Hacker News",
-      "published": "2026-11-05T17:17:42+00:00",
-      "score": 22.0
+      "title": "Home Office cloud services contract may net AWS £1B",
+      "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
+      "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
+      "source": "The Register",
+      "published": "2026-11-06T12:47:00+00:00",
+      "score": 23.0
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "summary": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/ Comments URL: https://news.ycombinator.com/item?id=50379704 Points: 455 # Comments: 82",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 46 # Comments: 12",
+      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
       "source": "Hacker News",
-      "published": "2026-11-05T14:44:20+00:00",
+      "published": "2026-11-06T18:04:06+00:00",
       "score": 21.0
     },
     {
-      "title": "Turn your home into a giant crane game with this open source robot",
-      "summary": "Who needs a humanoid to pick up after you when you can suspend an AI-powered claw from cables near your ceiling?",
-      "url": "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
+      "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
+      "summary": "The cloud giant refits its agentic dev tools for agent orchestration",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
       "source": "The Register",
-      "published": "2026-11-04T18:35:00+00:00",
-      "score": 18.0
+      "published": "2026-11-05T22:09:20+00:00",
+      "score": 19.0
     },
     {
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T19:59:22+00:00",
+      "title": "PyLings: Solve Exercises and Learn Python",
+      "summary": "Article URL: https://github.com/thesayfulla/pylings Comments URL: https://news.ycombinator.com/item?id=50394977 Points: 18 # Comments: 1",
+      "url": "https://github.com/thesayfulla/pylings",
+      "source": "Hacker News",
+      "published": "2026-11-06T16:59:40+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=50395043 Points: 0 # Comments: 0",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "source": "Hacker News",
+      "published": "2026-11-06T17:03:33+00:00",
       "score": 15.0
-    },
-    {
-      "title": "Get root on a musl Linux system by slamming it with an overly long password",
-      "summary": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
-      "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
-      "source": "The Register",
-      "published": "2026-11-05T18:29:00+00:00",
-      "score": 13.0
     }
   ]
 }
