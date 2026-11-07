@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:57:54.675527-05:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T13:03:34.443200-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -10,15 +10,7 @@
       "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
       "source": "The Register",
       "published": "2026-11-06T12:47:00+00:00",
-      "score": 23.0
-    },
-    {
-      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points: 46 # Comments: 12",
-      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-      "source": "Hacker News",
-      "published": "2026-11-06T18:04:06+00:00",
-      "score": 21.0
+      "score": 20.0
     },
     {
       "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
@@ -26,23 +18,31 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
       "source": "The Register",
       "published": "2026-11-05T22:09:20+00:00",
-      "score": 19.0
+      "score": 16.0
     },
     {
-      "title": "PyLings: Solve Exercises and Learn Python",
-      "summary": "Article URL: https://github.com/thesayfulla/pylings Comments URL: https://news.ycombinator.com/item?id=50394977 Points: 18 # Comments: 1",
-      "url": "https://github.com/thesayfulla/pylings",
-      "source": "Hacker News",
-      "published": "2026-11-06T16:59:40+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=50395043 Points: 0 # Comments: 0",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "source": "Hacker News",
-      "published": "2026-11-06T17:03:33+00:00",
+      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+      "summary": "Developer: “I can’t be part of the Fox world.”",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "source": "Ars Technica",
+      "published": "2026-11-06T19:50:18+00:00",
       "score": 15.0
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "summary": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https://xkcd.com/2365/ Whenever XMPP or Matrix threads pop up on HN, several commenters casually mention their \"friends and family XMPP (or Matrix) server.\" How did you convince friends and family to move away from SMS/WhatsApp and replace it with a niche messaging app? My family and friends aren't hardcore nerdy, but they're more tech-savvy than average. Their needs in messaging are mainly pragmatic: they want ease of use, reliability, and fun features. They d",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "source": "Hacker News",
+      "published": "2026-11-07T15:14:40+00:00",
+      "score": 13.0
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 119 # Comments: 50",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "source": "Hacker News",
+      "published": "2026-11-07T14:00:20+00:00",
+      "score": 13.0
     }
   ]
 }
