@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T13:22:51.074849-05:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:59:43.118589-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Home Office cloud services contract may net AWS £1B",
-      "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
-      "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
+      "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+      "summary": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
+      "url": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
       "source": "The Register",
-      "published": "2026-11-06T12:47:00+00:00",
-      "score": 20.0
+      "published": "2026-11-09T15:02:00+00:00",
+      "score": 25.0
     },
     {
-      "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
-      "summary": "The cloud giant refits its agentic dev tools for agent orchestration",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
-      "source": "The Register",
-      "published": "2026-11-05T22:09:20+00:00",
-      "score": 16.0
-    },
-    {
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 33 # Comments: 15",
-      "url": "https://goldstein.lol/posts/deno-security/",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone sce",
+      "url": "https://meowdisplay.app/",
       "source": "Hacker News",
-      "published": "2026-11-08T14:42:38+00:00",
+      "published": "2026-11-09T18:39:22+00:00",
+      "score": 18.0
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "source": "Ars Technica",
+      "published": "2026-11-09T19:41:34+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Attackers backdoor trusted AWS integrations to steal secrets",
+      "summary": "Wiz researchers uncovered the secret-stealing supply-chain attack",
+      "url": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
+      "source": "The Register",
+      "published": "2026-11-09T19:59:50+00:00",
+      "score": 15.0
+    },
+    {
+      "title": "TPUs",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 26 # Comments: 1",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "source": "Hacker News",
+      "published": "2026-11-09T21:56:57+00:00",
       "score": 13.0
-    },
-    {
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "summary": "Developer: “I can’t be part of the Fox world.”",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T19:50:18+00:00",
-      "score": 12.0
-    },
-    {
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T16:19:12+00:00",
-      "score": 11.0
     }
   ]
 }
