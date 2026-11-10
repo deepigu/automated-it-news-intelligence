@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T17:59:43.118589-05:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:28:38.494414-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -10,15 +10,31 @@
       "url": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
       "source": "The Register",
       "published": "2026-11-09T15:02:00+00:00",
-      "score": 25.0
+      "score": 22.0
     },
     {
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone sce",
-      "url": "https://meowdisplay.app/",
+      "title": "Fireworks AI gets burned twice as customer data exposure widens",
+      "summary": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+      "source": "The Register",
+      "published": "2026-11-10T15:28:00+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+      "summary": "Post-quantum handshake and Triple Ratchet get a formal security check",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+      "source": "The Register",
+      "published": "2026-11-10T12:00:00+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping ",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
       "source": "Hacker News",
-      "published": "2026-11-09T18:39:22+00:00",
-      "score": 18.0
+      "published": "2026-11-10T18:01:15+00:00",
+      "score": 16.0
     },
     {
       "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -26,23 +42,7 @@
       "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
       "source": "Ars Technica",
       "published": "2026-11-09T19:41:34+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "Attackers backdoor trusted AWS integrations to steal secrets",
-      "summary": "Wiz researchers uncovered the secret-stealing supply-chain attack",
-      "url": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
-      "source": "The Register",
-      "published": "2026-11-09T19:59:50+00:00",
-      "score": 15.0
-    },
-    {
-      "title": "TPUs",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 26 # Comments: 1",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "source": "Hacker News",
-      "published": "2026-11-09T21:56:57+00:00",
-      "score": 13.0
+      "score": 14.0
     }
   ]
 }
