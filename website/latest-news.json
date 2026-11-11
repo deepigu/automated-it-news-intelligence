@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:28:38.494414-05:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:12:43.033702-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
-      "summary": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
-      "url": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+      "title": "Google gooses Python AI performance by... removing Python",
+      "summary": "Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts",
+      "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
       "source": "The Register",
-      "published": "2026-11-09T15:02:00+00:00",
-      "score": 22.0
+      "published": "2026-11-11T11:30:00+00:00",
+      "score": 25.0
     },
     {
-      "title": "Fireworks AI gets burned twice as customer data exposure widens",
-      "summary": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
-      "source": "The Register",
-      "published": "2026-11-10T15:28:00+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
-      "summary": "Post-quantum handshake and Triple Ratchet get a formal security check",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
-      "source": "The Register",
-      "published": "2026-11-10T12:00:00+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping ",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "source": "Hacker News",
-      "published": "2026-11-10T18:01:15+00:00",
-      "score": 16.0
-    },
-    {
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
       "source": "Ars Technica",
-      "published": "2026-11-09T19:41:34+00:00",
-      "score": 14.0
+      "published": "2026-11-10T22:35:01+00:00",
+      "score": 23.0
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "summary": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries never leave your computer. As small OSS models have gotten faster and more powerful, Yogurt seemed lik",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "Hacker News",
+      "published": "2026-11-11T15:33:06+00:00",
+      "score": 19.0
+    },
+    {
+      "title": "Gemini Decisions API",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 35 # Comments: 5",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Hacker News",
+      "published": "2026-11-11T18:32:42+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "summary": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use",
+      "url": "https://pomerado.ai/",
+      "source": "Hacker News",
+      "published": "2026-11-11T17:11:56+00:00",
+      "score": 17.0
     }
   ]
 }
