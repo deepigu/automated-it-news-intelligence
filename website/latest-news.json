@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T15:12:43.033702-05:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T15:50:23.487503-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
+    {
+      "title": "AWS distills its cloud into a local emulator that runs on your PC",
+      "summary": "Hyperscale meets micro-computing by offering APIs to test your apps",
+      "url": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
+      "source": "The Register",
+      "published": "2026-11-12T05:47:31+00:00",
+      "score": 23.0
+    },
     {
       "title": "Google gooses Python AI performance by... removing Python",
       "summary": "Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts",
       "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
       "source": "The Register",
       "published": "2026-11-11T11:30:00+00:00",
-      "score": 25.0
+      "score": 22.0
     },
     {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "source": "Ars Technica",
-      "published": "2026-11-10T22:35:01+00:00",
-      "score": 23.0
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "summary": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries never leave your computer. As small OSS models have gotten faster and more powerful, Yogurt seemed lik",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "source": "Hacker News",
-      "published": "2026-11-11T15:33:06+00:00",
-      "score": 19.0
-    },
-    {
-      "title": "Gemini Decisions API",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 35 # Comments: 5",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Hacker News",
-      "published": "2026-11-11T18:32:42+00:00",
+      "published": "2026-11-12T19:59:59+00:00",
       "score": 17.0
     },
     {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "summary": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use",
-      "url": "https://pomerado.ai/",
-      "source": "Hacker News",
-      "published": "2026-11-11T17:11:56+00:00",
+      "title": "Microsoft has an image problem with November's Windows security update",
+      "summary": "Zero-size graphics can derail printing, while some admins also face activation failures",
+      "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
+      "source": "The Register",
+      "published": "2026-11-12T16:36:00+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
+      "summary": "Now enables backup by default and hints a little on-prem infra never hurt anyone",
+      "url": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
+      "source": "The Register",
+      "published": "2026-11-12T01:10:24+00:00",
       "score": 17.0
     }
   ]
