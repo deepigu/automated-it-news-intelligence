@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:50:23.487503-05:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:29:53.304351-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "AWS distills its cloud into a local emulator that runs on your PC",
-      "summary": "Hyperscale meets micro-computing by offering APIs to test your apps",
-      "url": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
+      "title": "Another Linux kernel developer steps back from some duties due to overload",
+      "summary": "You can probably guess what he blames for the excessive workload",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
       "source": "The Register",
-      "published": "2026-11-12T05:47:31+00:00",
+      "published": "2026-11-13T15:28:00+00:00",
       "score": 23.0
     },
     {
-      "title": "Google gooses Python AI performance by... removing Python",
-      "summary": "Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts",
-      "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+      "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
+      "summary": "‘Actions taken thus far have not provided the anticipated relief’",
+      "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
       "source": "The Register",
-      "published": "2026-11-11T11:30:00+00:00",
-      "score": 22.0
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:59:59+00:00",
+      "published": "2026-11-12T23:06:06+00:00",
       "score": 17.0
     },
     {
-      "title": "Microsoft has an image problem with November's Windows security update",
-      "summary": "Zero-size graphics can derail printing, while some admins also face activation failures",
-      "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
+      "title": "Developer cleverly shrank 2,600 lines of C into a six-line script but still ending up losing sleep",
+      "summary": "It wasn't the not-very-legal source code raid that caused it, but a colleague who punted a pager",
+      "url": "https://www.theregister.com/software/2026/11/13/developer-cleverly-shrank-2600-lines-of-c-into-a-six-line-script-but-still-ending-up-losing-sleep/5309264",
       "source": "The Register",
-      "published": "2026-11-12T16:36:00+00:00",
-      "score": 17.0
+      "published": "2026-11-13T06:27:00+00:00",
+      "score": 15.0
     },
     {
-      "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
-      "summary": "Now enables backup by default and hints a little on-prem infra never hurt anyone",
-      "url": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
+      "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
+      "summary": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
+      "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
       "source": "The Register",
-      "published": "2026-11-12T01:10:24+00:00",
-      "score": 17.0
+      "published": "2026-11-12T20:48:45+00:00",
+      "score": 15.0
+    },
+    {
+      "title": "What we know so far about the Microsoft outage",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-13T11:43:27+00:00",
+      "score": 14.0
     }
   ]
 }
