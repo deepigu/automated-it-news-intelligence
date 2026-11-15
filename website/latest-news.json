@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T13:44:53.771774-05:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T14:23:29.429815-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
@@ -11,6 +11,14 @@
       "source": "The Register",
       "published": "2026-11-13T15:28:00+00:00",
       "score": 20.0
+    },
+    {
+      "title": "All AI-generated code should be Open Source",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 773 # Comments: 405",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "source": "Hacker News",
+      "published": "2026-11-15T14:46:58+00:00",
+      "score": 17.0
     },
     {
       "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
@@ -29,19 +37,11 @@
       "score": 14.0
     },
     {
-      "title": "Microsoft has an image problem with November's Windows security update",
-      "summary": "Zero-size graphics can derail printing, while some admins also face activation failures",
-      "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
-      "source": "The Register",
-      "published": "2026-11-12T16:36:00+00:00",
-      "score": 14.0
-    },
-    {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 121 # Comments: 45",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 6 # Comments: 1",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
       "source": "Hacker News",
-      "published": "2026-11-14T15:40:52+00:00",
+      "published": "2026-11-15T18:36:40+00:00",
       "score": 13.0
     }
   ]
