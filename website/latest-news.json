@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T14:23:29.429815-05:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:54:35.371610-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Another Linux kernel developer steps back from some duties due to overload",
-      "summary": "You can probably guess what he blames for the excessive workload",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
+      "title": "Google: AI agent turned a security patch into a working exploit with no human help",
+      "summary": "Look ma, no human in the loop!",
+      "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
       "source": "The Register",
-      "published": "2026-11-13T15:28:00+00:00",
-      "score": 20.0
+      "published": "2026-11-16T14:00:00+00:00",
+      "score": 21.0
     },
     {
-      "title": "All AI-generated code should be Open Source",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 773 # Comments: 405",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "Hacker News",
-      "published": "2026-11-15T14:46:58+00:00",
+      "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
+      "summary": "Version 4.0 of Redmond’s cloudy OS is free to use in its cloud. Repeat. Free to use",
+      "url": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+      "source": "The Register",
+      "published": "2026-11-16T06:04:02+00:00",
+      "score": 21.0
+    },
+    {
+      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+      "summary": "Critical orgs around the globe under seige",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+      "source": "The Register",
+      "published": "2026-11-16T19:52:00+00:00",
+      "score": 19.0
+    },
+    {
+      "title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
+      "summary": "PLUS: SEGA Japan suffers outage and data leak; India bans dead battery exports; Alibaba chip unit to float; and more",
+      "url": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+      "source": "The Register",
+      "published": "2026-11-15T23:46:01+00:00",
+      "score": 19.0
+    },
+    {
+      "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
+      "summary": "Opt-in Edge archive gives Pro subscribers early access before full testing, while normal updates remain human-validated",
+      "url": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+      "source": "The Register",
+      "published": "2026-11-16T18:01:00+00:00",
       "score": 17.0
-    },
-    {
-      "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
-      "summary": "‘Actions taken thus far have not provided the anticipated relief’",
-      "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
-      "source": "The Register",
-      "published": "2026-11-12T23:06:06+00:00",
-      "score": 14.0
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:59:59+00:00",
-      "score": 14.0
-    },
-    {
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 6 # Comments: 1",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "source": "Hacker News",
-      "published": "2026-11-15T18:36:40+00:00",
-      "score": 13.0
     }
   ]
 }
