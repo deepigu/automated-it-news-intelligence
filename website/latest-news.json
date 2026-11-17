@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T17:54:35.371610-05:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T16:46:38.670641-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Google: AI agent turned a security patch into a working exploit with no human help",
-      "summary": "Look ma, no human in the loop!",
-      "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
-      "source": "The Register",
-      "published": "2026-11-16T14:00:00+00:00",
-      "score": 21.0
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs ",
+      "url": "https://starsling.dev",
+      "source": "Hacker News",
+      "published": "2026-11-17T19:01:43+00:00",
+      "score": 25.0
     },
     {
-      "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
-      "summary": "Version 4.0 of Redmond’s cloudy OS is free to use in its cloud. Repeat. Free to use",
-      "url": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+      "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
+      "summary": "Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances",
+      "url": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
       "source": "The Register",
-      "published": "2026-11-16T06:04:02+00:00",
-      "score": 21.0
+      "published": "2026-11-17T12:31:00+00:00",
+      "score": 25.0
     },
     {
-      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-      "summary": "Critical orgs around the globe under seige",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+      "title": "Python parallel debugging comes to HPC thanks to TotalView upgrade",
+      "summary": "TotalView has supported C/C++ and Fortran. With the latest quarterly release, it supports Python as well",
+      "url": "https://www.theregister.com/devops/2026/11/17/python-parallel-debugging-comes-to-hpc-thanks-to-totalview-upgrade/5310564",
       "source": "The Register",
-      "published": "2026-11-16T19:52:00+00:00",
-      "score": 19.0
+      "published": "2026-11-17T20:14:31+00:00",
+      "score": 17.0
     },
     {
-      "title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
-      "summary": "PLUS: SEGA Japan suffers outage and data leak; India bans dead battery exports; Alibaba chip unit to float; and more",
-      "url": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
-      "source": "The Register",
-      "published": "2026-11-15T23:46:01+00:00",
-      "score": 19.0
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T16:50:10+00:00",
+      "score": 17.0
     },
     {
-      "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
-      "summary": "Opt-in Edge archive gives Pro subscribers early access before full testing, while normal updates remain human-validated",
-      "url": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-      "source": "The Register",
-      "published": "2026-11-16T18:01:00+00:00",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "summary": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :) What it does today: - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router. - Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks. - Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both b",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "source": "Hacker News",
+      "published": "2026-11-17T16:01:04+00:00",
       "score": 17.0
     }
   ]
