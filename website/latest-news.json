@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T16:46:38.670641-05:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:26:57.666339-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs ",
-      "url": "https://starsling.dev",
+      "title": "Microsoft's official Python agent framework hijacked to distribute malware",
+      "summary": "In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised",
+      "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+      "source": "The Register",
+      "published": "2026-11-18T17:23:37+00:00",
+      "score": 21.0
+    },
+    {
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is: You buy Hetzner/OVH Cloud bare metal servers, use Firecracker to slice the servers up into VMs, sell those VMs with low margins. It’s a bit of an oversimpl",
+      "url": "https://news.ycombinator.com/item?id=50549188",
       "source": "Hacker News",
-      "published": "2026-11-17T19:01:43+00:00",
-      "score": 25.0
+      "published": "2026-11-18T17:26:28+00:00",
+      "score": 20.0
     },
     {
-      "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
-      "summary": "Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances",
-      "url": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
-      "source": "The Register",
-      "published": "2026-11-17T12:31:00+00:00",
-      "score": 25.0
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-18T08:47:06+00:00",
+      "score": 18.0
     },
     {
-      "title": "Python parallel debugging comes to HPC thanks to TotalView upgrade",
-      "summary": "TotalView has supported C/C++ and Fortran. With the latest quarterly release, it supports Python as well",
-      "url": "https://www.theregister.com/devops/2026/11/17/python-parallel-debugging-comes-to-hpc-thanks-to-totalview-upgrade/5310564",
-      "source": "The Register",
-      "published": "2026-11-17T20:14:31+00:00",
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "summary": "Hi HN, we're Shane, Sam, and Abhi. Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073 . It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races. Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself. At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, along",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "source": "Hacker News",
+      "published": "2026-11-18T16:53:42+00:00",
       "score": 17.0
     },
     {
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "source": "Ars Technica",
-      "published": "2026-11-17T16:50:10+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "summary": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :) What it does today: - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router. - Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks. - Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both b",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "source": "Hacker News",
-      "published": "2026-11-17T16:01:04+00:00",
+      "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
+      "summary": "User group says access terms favor enterprises that can migrate one ERP system at a time",
+      "url": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056",
+      "source": "The Register",
+      "published": "2026-11-18T10:14:00+00:00",
       "score": 17.0
     }
   ]
