@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T16:26:57.666339-05:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:37:27.330965-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely bui",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "source": "Hacker News",
+      "published": "2026-11-19T16:34:04+00:00",
+      "score": 25.0
+    },
     {
       "title": "Microsoft's official Python agent framework hijacked to distribute malware",
       "summary": "In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised",
       "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
       "source": "The Register",
       "published": "2026-11-18T17:23:37+00:00",
-      "score": 21.0
-    },
-    {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is: You buy Hetzner/OVH Cloud bare metal servers, use Firecracker to slice the servers up into VMs, sell those VMs with low margins. It’s a bit of an oversimpl",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "source": "Hacker News",
-      "published": "2026-11-18T17:26:28+00:00",
-      "score": 20.0
+      "score": 18.0
     },
     {
       "title": "Security flaw found in Java, world's third-largest programming language",
@@ -26,23 +26,23 @@
       "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "published": "2026-11-18T08:47:06+00:00",
-      "score": 18.0
+      "score": 15.0
     },
     {
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "summary": "Hi HN, we're Shane, Sam, and Abhi. Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073 . It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races. Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself. At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, along",
-      "url": "https://news.ycombinator.com/item?id=50548660",
-      "source": "Hacker News",
-      "published": "2026-11-18T16:53:42+00:00",
-      "score": 17.0
-    },
-    {
-      "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
-      "summary": "User group says access terms favor enterprises that can migrate one ERP system at a time",
-      "url": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056",
+      "title": "XXRI-OS explores the lowest end of the Linux desktop",
+      "summary": "Less is more, but this distro explores exactly how much less",
+      "url": "https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036",
       "source": "The Register",
-      "published": "2026-11-18T10:14:00+00:00",
-      "score": 17.0
+      "published": "2026-11-19T18:35:00+00:00",
+      "score": 13.0
+    },
+    {
+      "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
+      "summary": "TrendForce sees supply outpacing demand in 2027, though cheaper flash won't fix the DRAM squeeze",
+      "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+      "source": "The Register",
+      "published": "2026-11-19T17:02:00+00:00",
+      "score": 13.0
     }
   ]
 }
