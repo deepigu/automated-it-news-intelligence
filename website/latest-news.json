@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T16:37:27.330965-05:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:08:12.661888-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely bui",
-      "url": "https://github.com/onlook-dev/onlook/",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "summary": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]). Two other choices: - One VM per team, scalable horizontally. Sessions are isolated in git worktrees. - Session files are backed up to a repo after every turn, so any session can resume on another VM. We noticed that past ~640 sessi",
+      "url": "https://github.com/diggerhq/opencomputer",
       "source": "Hacker News",
-      "published": "2026-11-19T16:34:04+00:00",
-      "score": 25.0
+      "published": "2026-11-20T20:19:56+00:00",
+      "score": 22.0
     },
     {
-      "title": "Microsoft's official Python agent framework hijacked to distribute malware",
-      "summary": "In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised",
-      "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+      "title": "Microsoft's last non-security preview of 2026 packs a punch",
+      "summary": "Windows Search gets a makeover, while Hello lights up dim rooms",
+      "url": "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
       "source": "The Register",
-      "published": "2026-11-18T17:23:37+00:00",
-      "score": 18.0
+      "published": "2026-11-20T14:28:00+00:00",
+      "score": 17.0
     },
     {
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-18T08:47:06+00:00",
-      "score": 15.0
-    },
-    {
-      "title": "XXRI-OS explores the lowest end of the Linux desktop",
-      "summary": "Less is more, but this distro explores exactly how much less",
-      "url": "https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036",
-      "source": "The Register",
-      "published": "2026-11-19T18:35:00+00:00",
+      "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "published": "2026-11-20T20:59:08+00:00",
       "score": 13.0
     },
     {
-      "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
-      "summary": "TrendForce sees supply outpacing demand in 2027, though cheaper flash won't fix the DRAM squeeze",
-      "url": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "published": "2026-11-20T20:54:12+00:00",
+      "score": 13.0
+    },
+    {
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
       "source": "The Register",
-      "published": "2026-11-19T17:02:00+00:00",
+      "published": "2026-11-20T20:42:04+00:00",
       "score": 13.0
     }
   ]
