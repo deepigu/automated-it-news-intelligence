@@ -1,16 +1,32 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T16:08:12.661888-05:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:07:23.298384-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "summary": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]). Two other choices: - One VM per team, scalable horizontally. Sessions are isolated in git worktrees. - Session files are backed up to a repo after every turn, so any session can resume on another VM. We noticed that past ~640 sessi",
-      "url": "https://github.com/diggerhq/opencomputer",
+      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+      "summary": "If a service falls in the forest and nobody hears it...",
+      "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+      "source": "The Register",
+      "published": "2026-11-21T14:35:00+00:00",
+      "score": 15.0
+    },
+    {
+      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
+      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+      "source": "The Register",
+      "published": "2026-11-20T23:41:14+00:00",
+      "score": 15.0
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria. In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I ",
+      "url": "https://news.ycombinator.com/item?id=50583761",
       "source": "Hacker News",
-      "published": "2026-11-20T20:19:56+00:00",
-      "score": 22.0
+      "published": "2026-11-20T23:18:32+00:00",
+      "score": 15.0
     },
     {
       "title": "Microsoft's last non-security preview of 2026 packs a punch",
@@ -18,30 +34,14 @@
       "url": "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
       "source": "The Register",
       "published": "2026-11-20T14:28:00+00:00",
-      "score": 17.0
+      "score": 14.0
     },
     {
-      "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
       "source": "Ars Technica",
-      "published": "2026-11-20T20:59:08+00:00",
-      "score": 13.0
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "published": "2026-11-20T20:54:12+00:00",
-      "score": 13.0
-    },
-    {
-      "title": "Signal slams door on prying AI agents to protect privacy",
-      "summary": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
-      "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
-      "source": "The Register",
-      "published": "2026-11-20T20:42:04+00:00",
+      "published": "2026-11-20T21:58:29+00:00",
       "score": 13.0
     }
   ]
