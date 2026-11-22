@@ -1,31 +1,23 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T15:07:23.298384-05:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:22:28.177756-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
-      "summary": "If a service falls in the forest and nobody hears it...",
-      "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-      "source": "The Register",
-      "published": "2026-11-21T14:35:00+00:00",
-      "score": 15.0
-    },
-    {
-      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
-      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
-      "source": "The Register",
-      "published": "2026-11-20T23:41:14+00:00",
-      "score": 15.0
-    },
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria. In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I ",
-      "url": "https://news.ycombinator.com/item?id=50583761",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 59 # Comments: 10",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
       "source": "Hacker News",
-      "published": "2026-11-20T23:18:32+00:00",
+      "published": "2026-11-22T09:57:01+00:00",
+      "score": 21.0
+    },
+    {
+      "title": "Testing Terraform with AWS Emulator",
+      "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 41 # Comments: 4",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "source": "Hacker News",
+      "published": "2026-11-22T13:00:36+00:00",
       "score": 15.0
     },
     {
@@ -37,12 +29,20 @@
       "score": 14.0
     },
     {
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "source": "Ars Technica",
-      "published": "2026-11-20T21:58:29+00:00",
-      "score": 13.0
+      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+      "summary": "If a service falls in the forest and nobody hears it...",
+      "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+      "source": "The Register",
+      "published": "2026-11-21T14:35:00+00:00",
+      "score": 12.0
+    },
+    {
+      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
+      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+      "source": "The Register",
+      "published": "2026-11-20T23:41:14+00:00",
+      "score": 12.0
     }
   ]
 }
