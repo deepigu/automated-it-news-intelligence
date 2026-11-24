@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T15:22:28.177756-05:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:54:29.193177-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 59 # Comments: 10",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "source": "Hacker News",
-      "published": "2026-11-22T09:57:01+00:00",
-      "score": 21.0
-    },
-    {
-      "title": "Testing Terraform with AWS Emulator",
-      "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 41 # Comments: 4",
-      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-      "source": "Hacker News",
-      "published": "2026-11-22T13:00:36+00:00",
+      "title": "Norway links energy firm cyberattacks to critical Azure API Management flaw",
+      "summary": "Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets",
+      "url": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598",
+      "source": "The Register",
+      "published": "2026-11-23T12:29:00+00:00",
       "score": 15.0
     },
     {
-      "title": "Microsoft's last non-security preview of 2026 packs a punch",
-      "summary": "Windows Search gets a makeover, while Hello lights up dim rooms",
-      "url": "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
-      "source": "The Register",
-      "published": "2026-11-20T14:28:00+00:00",
-      "score": 14.0
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "summary": "Article URL: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/ Comments URL: https://news.ycombinator.com/item?id=50620822 Points: 92 # Comments: 47",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "source": "Hacker News",
+      "published": "2026-11-23T23:11:38+00:00",
+      "score": 13.0
     },
     {
-      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
-      "summary": "If a service falls in the forest and nobody hears it...",
-      "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-      "source": "The Register",
-      "published": "2026-11-21T14:35:00+00:00",
-      "score": 12.0
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "summary": "Article URL: https://openai.com/index/introducing-shirudo/ Comments URL: https://news.ycombinator.com/item?id=50619630 Points: 18 # Comments: 1",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "source": "Hacker News",
+      "published": "2026-11-23T21:30:41+00:00",
+      "score": 13.0
     },
     {
-      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
-      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+      "title": "Old-school Linux desktops find fresh routes to Wayland",
+      "summary": "Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own",
+      "url": "https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349",
       "source": "The Register",
-      "published": "2026-11-20T23:41:14+00:00",
-      "score": 12.0
+      "published": "2026-11-23T10:17:00+00:00",
+      "score": 13.0
+    },
+    {
+      "title": "Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them",
+      "summary": "Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud",
+      "url": "https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325",
+      "source": "The Register",
+      "published": "2026-11-23T09:32:00+00:00",
+      "score": 13.0
     }
   ]
 }
