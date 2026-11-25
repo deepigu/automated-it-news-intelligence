@@ -1,24 +1,16 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T18:02:05.229450-05:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T17:34:50.521567-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
     {
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to/from up to 100 people at once - Send money to people without a Versine account (they cash out to th",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "source": "Hacker News",
-      "published": "2026-11-24T20:44:15+00:00",
-      "score": 19.0
-    },
-    {
-      "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
-      "summary": "Hey HN, this is Alexander from Hatchet ( https://github.com/hatchet-dev/hatchet ). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud account, primarily targeting EKS on AWS. Sandboxes are an incredibly useful primitive for agentic applications. They serve two main functions: (1) a way for the agent to safely execute untrusted code, and (2) a durable filesystem for agents to preserve their state via snapshots. We decided to start building this after we started on a package called `@hatchet-dev/sandbox` to integrate more directly wit",
-      "url": "https://github.com/hatchet-dev/brickie",
-      "source": "Hacker News",
-      "published": "2026-11-24T15:48:34+00:00",
-      "score": 19.0
+      "title": "Microsoft's NTLM security changes trip up third-party logins",
+      "summary": "It's not our fault if you've implemented it wrong",
+      "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
+      "source": "The Register",
+      "published": "2026-11-25T17:01:00+00:00",
+      "score": 17.0
     },
     {
       "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -29,19 +21,27 @@
       "score": 17.0
     },
     {
-      "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
-      "summary": "Meanwhile, Google's homepage demo leaves a familiar button out of the picture",
-      "url": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
+      "title": "JetBrains finds agents may cheat with open source",
+      "summary": "AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet",
+      "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
       "source": "The Register",
-      "published": "2026-11-24T17:00:00+00:00",
+      "published": "2026-11-25T14:07:00+00:00",
       "score": 15.0
     },
     {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 239 # Comments: 97",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "title": "Defang Security Incident",
+      "summary": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 20 # Comments: 4",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
       "source": "Hacker News",
-      "published": "2026-11-24T16:32:17+00:00",
+      "published": "2026-11-25T21:47:16+00:00",
+      "score": 13.0
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 28 # Comments: 8",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Hacker News",
+      "published": "2026-11-25T20:38:00+00:00",
       "score": 13.0
     }
   ]
