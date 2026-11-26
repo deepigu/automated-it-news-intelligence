@@ -1,16 +1,24 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T17:34:50.521567-05:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T17:22:32.622727-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
+    {
+      "title": "Rackspace pulls plug on Spot cloud service after security breach",
+      "summary": "Customers face frantic scramble to migrate workloads and rotate compromised credentials",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+      "source": "The Register",
+      "published": "2026-11-26T14:45:00+00:00",
+      "score": 21.0
+    },
     {
       "title": "Microsoft's NTLM security changes trip up third-party logins",
       "summary": "It's not our fault if you've implemented it wrong",
       "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
       "source": "The Register",
       "published": "2026-11-25T17:01:00+00:00",
-      "score": 17.0
+      "score": 14.0
     },
     {
       "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -18,30 +26,22 @@
       "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
       "source": "Ars Technica",
       "published": "2026-11-24T22:36:28+00:00",
-      "score": 17.0
+      "score": 14.0
     },
     {
-      "title": "JetBrains finds agents may cheat with open source",
-      "summary": "AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet",
-      "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "summary": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
       "source": "The Register",
-      "published": "2026-11-25T14:07:00+00:00",
-      "score": 15.0
-    },
-    {
-      "title": "Defang Security Incident",
-      "summary": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 20 # Comments: 4",
-      "url": "https://defang.io/blog/post/security-incident-november-2026/",
-      "source": "Hacker News",
-      "published": "2026-11-25T21:47:16+00:00",
+      "published": "2026-11-26T19:04:00+00:00",
       "score": 13.0
     },
     {
-      "title": "Slow Ubuntu security response times",
-      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 28 # Comments: 8",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "source": "Hacker News",
-      "published": "2026-11-25T20:38:00+00:00",
+      "title": "Indie web browser Ladybird enters alpha testing",
+      "summary": "Upstart engine gets downloadable macOS and Linux builds, but no security guarantees",
+      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+      "source": "The Register",
+      "published": "2026-11-26T18:15:00+00:00",
       "score": 13.0
     }
   ]
