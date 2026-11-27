@@ -1,16 +1,40 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T17:22:32.622727-05:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T16:58:36.875207-05:00",
   "timezone": "America/Toronto",
   "total_articles": 5,
   "articles": [
+    {
+      "title": "AWS adds virtual iPhones to its cloud",
+      "summary": "Emulating Android, too, but offers just two handsets and one tablet",
+      "url": "https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457",
+      "source": "The Register",
+      "published": "2026-11-27T05:13:32+00:00",
+      "score": 23.0
+    },
     {
       "title": "Rackspace pulls plug on Spot cloud service after security breach",
       "summary": "Customers face frantic scramble to migrate workloads and rotate compromised credentials",
       "url": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
       "source": "The Register",
       "published": "2026-11-26T14:45:00+00:00",
-      "score": 21.0
+      "score": 18.0
+    },
+    {
+      "title": "Europe's AI sovereignty push: Lots of cloud, not much silver lining",
+      "summary": "Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120",
+      "source": "The Register",
+      "published": "2026-11-27T11:32:00+00:00",
+      "score": 17.0
+    },
+    {
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "summary": "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app. Comments URL: https://news.ycombinator.com/item?id=50667452 Points: 53 # Comments: 18",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "source": "Hacker News",
+      "published": "2026-11-27T14:37:02+00:00",
+      "score": 14.0
     },
     {
       "title": "Microsoft's NTLM security changes trip up third-party logins",
@@ -19,30 +43,6 @@
       "source": "The Register",
       "published": "2026-11-25T17:01:00+00:00",
       "score": 14.0
-    },
-    {
-      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "source": "Ars Technica",
-      "published": "2026-11-24T22:36:28+00:00",
-      "score": 14.0
-    },
-    {
-      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
-      "summary": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
-      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
-      "source": "The Register",
-      "published": "2026-11-26T19:04:00+00:00",
-      "score": 13.0
-    },
-    {
-      "title": "Indie web browser Ladybird enters alpha testing",
-      "summary": "Upstart engine gets downloadable macOS and Linux builds, but no security guarantees",
-      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
-      "source": "The Register",
-      "published": "2026-11-26T18:15:00+00:00",
-      "score": 13.0
     }
   ]
 }
